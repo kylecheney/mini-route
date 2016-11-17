@@ -1,1 +1,1 @@
-angular.module("miniRouting", [ui.router])
+angular.module("miniRouting", ["ui.router"])
